@@ -1,1 +1,3 @@
 This is my new text file im trying to learn git. lasssgooooooooooooooooo
+
+making some changes to it lets seeee
